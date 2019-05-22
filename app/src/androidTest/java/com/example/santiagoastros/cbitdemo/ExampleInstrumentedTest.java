@@ -1,4 +1,4 @@
-package com.example.santiagoastros.demo_apk;
+package com.example.santiagoastros.cbitdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.santiagoastros.demo_apk", appContext.getPackageName());
+        assertEquals("com.example.santiagoastros.cbitdemo", appContext.getPackageName());
     }
 }

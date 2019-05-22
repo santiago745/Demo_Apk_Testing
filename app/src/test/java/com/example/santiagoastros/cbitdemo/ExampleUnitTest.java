@@ -1,4 +1,4 @@
-package com.example.santiagoastros.demo_apk;
+package com.example.santiagoastros.cbitdemo;
 
 import org.junit.Test;
 
